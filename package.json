@@ -14,10 +14,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy":"npm run dev",
-    "deploy":"gh pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh pages -d build"
   },
-  "homepage": "https://tejasvinaval.github.io/petstore-app/",
+  "homepage": "https://tejasvinaval.github.io/petstore-app",
   "eslintConfig": {
     "extends": [
       "react-app",
