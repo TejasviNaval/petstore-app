@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/petstore-app/static/css/main.a176f450.css",
+    "main.js": "/petstore-app/static/js/main.66610a34.js",
+    "static/js/453.7615963c.chunk.js": "/petstore-app/static/js/453.7615963c.chunk.js",
+    "index.html": "/petstore-app/index.html",
+    "main.a176f450.css.map": "/petstore-app/static/css/main.a176f450.css.map",
+    "main.66610a34.js.map": "/petstore-app/static/js/main.66610a34.js.map",
+    "453.7615963c.chunk.js.map": "/petstore-app/static/js/453.7615963c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a176f450.css",
+    "static/js/main.66610a34.js"
+  ]
+}
