@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <div class="container">
         <div id="header" onclick="showMenu()" class="header">
-            <a class="logo" id="logo" href="#">PET STORE</a>
+            <a class="logo" id="logo" href="#">HappyPaws - PET STORE</a>
             <div class="toggle-btn">
 
                 <input type="checkbox" id="nav-toggle"/>
